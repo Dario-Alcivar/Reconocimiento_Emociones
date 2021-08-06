@@ -1,0 +1,15 @@
+
+
+En este archivo .txt dejaremos los enlaces de los archivos requeridos para llevar a cabo el programa de Reconocimiento de
+ Emociones con Telegram.
+
+
+1. Link de la Data
+
+" https://zenodo.org/record/1188976#.YQyuXj_iuM9 "
+
+2. Necesitamos descargar e instalar en el equipo ffmpeg.(dejaremos un enlace a youtube con un video donde explican todo el proceso)
+
+" https://www.youtube.com/watch?v=re_IEwXlcXU "
+
+Como un consejo asegurar de colocar estos archivos dentro de la carpeta del programa python que estamos desarrollando.
